@@ -1,4 +1,4 @@
-# Hi, I'm Tharunkumar 👋
+# Hi, I'm Tharunkumar 
 
 I'm a Software Engineer and Data Science graduate focused on building **scalable backend systems, data pipelines, and AI-powered applications**.
 
